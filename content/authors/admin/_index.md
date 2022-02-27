@@ -23,13 +23,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/paulina-szymczak-b9ab63164/
 organizations:
-  - name: University of Warsaw, Faculty of Mathematics, Informatics, and Mechanics
+  - name: MIM UW
     url: https://www.mimuw.edu.pl/
   - url: https://www.mimuw.edu.pl/~szczurek/
-    name: Computational Medicine group led by Ewa Szczurek
+    name: Ewa Szczurek's lab
 education:
   courses:
-    - course: MSc in Bioinformatics ans Systems Biology
+    - course: MSc in Bioinformatics
       institution: University of Warsaw
       year: 2020
     - course: BSc in Biotechnology
