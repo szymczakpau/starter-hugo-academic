@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: p.szymczak8@uw.edu.pl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/szymczak_pau
