@@ -29,13 +29,15 @@ organizations:
     name: Ewa Szczurek's lab
 education:
   courses:
+    - course: PhD Candidate
+      institution: Interdisciplinary Doctoral School
     - course: MSc in Bioinformatics
       institution: University of Warsaw
       year: 2020
     - course: BSc in Biotechnology
       institution: University of Wrocław
       year: 2018
-email: pszymczak8@uw.edu.pl
+email: p.szymczak8@uw.edu.pl
 superuser: true
 highlight_name: true
 ---
