@@ -2,10 +2,10 @@
 title: Paulina Szymczak
 role: Ph.D. candidate
 avatar_filename: paulinaszymczak.png
-bio: "My research interests include scRNA-seq and antimicrobial peptdies. "
+bio: "My research interests include scRNA-seq and antimicrobial peptides. "
 interests:
-  - scRNA-seq
-  - AMP
+  - Multimodal scRNA-seq
+  - Antimicrobial peptides
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,4 +41,4 @@ highlight_name: true
 ---
 I am a PhD student at Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw. I work in Computational Medicine lab led by Ewa Szczurek. I am currently focusing on multi-modal single cell sequencing data using machine learning techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
