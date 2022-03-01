@@ -1,3 +1,7 @@
+---
+title: AMP Frequently Asked Questions
+date: 2022-03-01T17:38:19.010Z
+---
 # AMP Frequently Asked Questions
 
 It was meant to be read in order, so if you are confused about something, you should probably go back to the beginning. 
