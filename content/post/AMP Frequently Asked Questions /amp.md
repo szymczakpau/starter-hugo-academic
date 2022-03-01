@@ -8,13 +8,13 @@ It was meant to be read in order, so if you are confused about something, you sh
 A peptide is a short chain of **amino acids**. 
 There are 20 natural amino acids, which are building blocks for peptides. They are connected together by peptide bonds into amino acid chain. They are most commonly represented as one letter, less frequently as three letters:
 	
-![](aminoacids.png)
+![](../../../static/media/aminoacids.png)
 
 Using this code, we can represent a peptide like so:
 **SHCMELK**
 Which corresponds to this chemical structure:
 
-![](peptideexample.png)
+![](../../../static/media/peptideexample.png)
 [Source](https://employees.csbsju.edu/cschaller/Principles%20Chem/imf/SPbiomolecule.htm) 
 
 **What is the difference between a peptide and a protein?** Proteins are composed of polypeptides; they are large and heavy. They can be broken down into smaller chunks. 
@@ -74,7 +74,7 @@ The modes of action can differ between peptides and between bacterial species. T
 
 Bacteria are slow to develop resistance against them. Traditional antibiotics tend to trigger resistance mechanisms in bacteria, but AMPs remain active after prolonged exposure due to their mode of action. 
 
-![Pasted image 20220216173609.png](app://local/%2Fhome%2Fpaulina%2FPhD%2Fobsidian%2F99%20Media%2FPasted%20image%2020220216173609.png?1645029369336)
+![](../../../static/media/resistanceassay.png)
 *When to AMPs (YI12, FK13) are compared with a common antibiotic Imipenem, bacteria are quickly developing resistance towards Impipenem (starting from passage 5). The concentration needed kill bacteria remains stable for both AMPs.* [Das et al. 2021](https://www.nature.com/articles/s41551-021-00689-x) 
 
 AMPs could be considered a **novel class of antibiotics**. 
