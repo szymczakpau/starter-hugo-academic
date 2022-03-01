@@ -15,7 +15,9 @@ There are 20 natural amino acids, which are building blocks for peptides. They a
 ![](aminoacids.png)
 
 Using this code, we can represent a peptide like so:
+
 **SHCMELK**
+
 Which corresponds to this chemical structure:
 
 ![](peptideexample.png)
