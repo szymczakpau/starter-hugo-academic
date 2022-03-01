@@ -2,16 +2,16 @@
 title: AMP Frequently Asked Questions
 date: 2022-03-01T17:38:19.010Z
 ---
-# AMP Frequently Asked Questions
-
 It was meant to be read in order, so if you are confused about something, you should probably go back to the beginning. 
 
 ## What are antimicrobial peptides?
 
 ### Peptides
+
 A peptide is a short chain of **amino acids**. 
 There are 20 natural amino acids, which are building blocks for peptides. They are connected together by peptide bonds into amino acid chain. They are most commonly represented as one letter, less frequently as three letters:
 	
+
 ![](aminoacids.png)
 
 Using this code, we can represent a peptide like so:
@@ -19,6 +19,7 @@ Using this code, we can represent a peptide like so:
 Which corresponds to this chemical structure:
 
 ![](peptideexample.png)
+
 [Source](https://employees.csbsju.edu/cschaller/Principles%20Chem/imf/SPbiomolecule.htm) 
 
 **What is the difference between a peptide and a protein?** Proteins are composed of polypeptides; they are large and heavy. They can be broken down into smaller chunks. 
@@ -28,21 +29,22 @@ One could say that every protein is a peptide, but not every protein is a peptid
 ### Antimicrobial
 
 Not every peptide is antimicrobial. To be classified as such, a peptide must show inhibitory activity towards pathogens such as:
-- bacteria - antibacterial
-- viruses - antiviral
-- fungi - antifungal 
-- cancer -anticancer
-- parasites - antiparasitic 
+
+* bacteria - antibacterial
+* viruses - antiviral
+* fungi - antifungal 
+* cancer -anticancer
+* parasites - antiparasitic 
 
 They can be considered a class of antibiotics, but they have a different mode of action from most commercially available drugs such as ampicylin. We will focus mostly on the bacteria. 
 
-## How did we find out about AMPs? 
+## How did we find out about AMPs?
 
-AMPs were discovered almost a century ago. They were first isolated from a soil _Bacillus_ strain and proved to protect mice from pneumococci infection. In following years, they were found in various plants and animals. An especially rich source of AMPs is frog skin. By producing AMPs towards the epithelium, a frog can remain shielded even in the wet surroundings usually favorable to various microbes. 
+AMPs were discovered almost a century ago. They were first isolated from a soil *Bacillus* strain and proved to protect mice from pneumococci infection. In following years, they were found in various plants and animals. An especially rich source of AMPs is frog skin. By producing AMPs towards the epithelium, a frog can remain shielded even in the wet surroundings usually favorable to various microbes. 
 
 ![](https://i.imgflip.com/66w25w.jpg)
 
-## Where do AMPs come from? 
+## Where do AMPs come from?
 
 AMPs are produced by various cells, some at a constant rate, some are induced. They are part of innate immune system, produced as a defense mechanism against pathogenic microbes.
 While they can be isolated from a natural source, currently the majority of AMPs are synthetic. They can be discovered via rational design or by computational methods.
@@ -59,8 +61,9 @@ What is curious, even bacteria can produce AMPs. These are called **bacteriocins
 ## How do AMP work?
 
 Antimicrobial peptides tend to share a set of common characteristics:
-- they are positively charged (fancy biology term for this is ***cationic***)
-- they are **amphiphatic**, which means they are hydrophilic (they are soluble in water) and hydrophobic (they can interact with lipid membranes) at the same time.
+
+* they are positively charged (fancy biology term for this is ***cationic***)
+* they are **amphiphatic**, which means they are hydrophilic (they are soluble in water) and hydrophobic (they can interact with lipid membranes) at the same time.
 
 Both those physicochemical properties are a direct result of the amino acid composition which influences charge, hydrophobicity and the structure. 
 
@@ -68,17 +71,18 @@ Every bacterial cell is enveloped with a lipid membrane. It is a semi-permeable 
 
 We have a positively-charged peptide and negatively-charged bacterial membrane. The attraction between charges initiates contact between the peptide and the bacterial cell. The amphiphatic nature of the AMPs allows them to interact with the lipid membrane, causing cell lysis, or to put simply, killing the bacterial cell.  
 
-
 ![](https://i.imgflip.com/67102g.jpg)
 [Nagajaran et al. 2018](https://pubmed.ncbi.nlm.nih.gov/29259134/)
 
 The modes of action can differ between peptides and between bacterial species. The lipid membrane is not the only target, and the physicochemical properties are not always followed. In biology, there are no theorems. 
 
-## Why do we care about AMPs? 
+## Why do we care about AMPs?
 
 Bacteria are slow to develop resistance against them. Traditional antibiotics tend to trigger resistance mechanisms in bacteria, but AMPs remain active after prolonged exposure due to their mode of action. 
 
-![Pasted image 20220216173609.png](app://local/%2Fhome%2Fpaulina%2FPhD%2Fobsidian%2F99%20Media%2FPasted%20image%2020220216173609.png?1645029369336)
+![](resistanceassay.png)
+
+
 *When to AMPs (YI12, FK13) are compared with a common antibiotic Imipenem, bacteria are quickly developing resistance towards Impipenem (starting from passage 5). The concentration needed kill bacteria remains stable for both AMPs.* [Das et al. 2021](https://www.nature.com/articles/s41551-021-00689-x) 
 
 AMPs could be considered a **novel class of antibiotics**. 
@@ -89,10 +93,9 @@ The same features that make AMP active against bacteria are making them active a
 
 ![](https://i.imgflip.com/67119v.jpg)
 
-
 Cells such as human erythrocytes are neutral in terms of charge, and some antimicrobial peptides are capable of selectively target bacterial cells without destroying host (human) cells. **Optimizing the selectivity of AMPs is the most important target is AMP design.** 
 
-## How do we quantify antimicrobial activity and toxicity? 
+## How do we quantify antimicrobial activity and toxicity?
 
 To quantify activity we use **Minimal Inhibitory Concentration (MIC)**. It is measured experimentally against specific bacterial strains (e.g. *E. coli* or *S. aureus*), as the lowest concentration of a peptide which prevents visible growth of the bacteria. The most active peptides have very low values of MIC, which means that they are active even in extremely low concentrations, which is good, because it means we can administer lower dosage. 
 
@@ -103,21 +106,22 @@ The ratio of HC50 to MIC is called **Selectivity Index (SI).** Higher HC50 value
 ## Where can I find info on AMPs?
 
 AMPs are collected in the databases by the AMP community. Here are some of worth recommending: 
-- [Database of Antimicrobial Activity and Structure of Peptides (DBAASP)](https://dbaasp.org/)
-- [Data repository of antimicrobial peptides (DRAMP)](http://dramp.cpu-bioinfor.org/)
-- [Collection of Anti-Microbial Peptides (CAMP)](http://www.camp3.bicnirrh.res.in/)
 
-## Why not just leave this problem to biologists? 
+* [Database of Antimicrobial Activity and Structure of Peptides (DBAASP)](https://dbaasp.org/)
+* [Data repository of antimicrobial peptides (DRAMP)](http://dramp.cpu-bioinfor.org/)
+* [Collection of Anti-Microbial Peptides (CAMP)](http://www.camp3.bicnirrh.res.in/)
+
+## Why not just leave this problem to biologists?
 
 Novel AMPs are usually discovered by trial and error process of substituting and/or introducing certain amino-acids into already known AMPs. These small changes can substantially affect antimicrobial activity. In silico design allows for excellent activity and low toxicity.
 
-|   | Pexiganan | Flexampin |
-|:---:|:---:|:---:|
-| Sequence | GIGKFLKKAKKFGKAFVKILKK | GIKKWVKGVAKGVAKDLAKKIL |
-| Description |   Topical cream for diabetic foot ulcers  (failed in Phase III clinical trials) | Designed in silico with expert knowledge |
-| MIC against E. coli(µM) | 1.60 | 0.30 |
-| HC50 (µM) | 45 | > 200   |
-| Selectivity | 28 | 670 |
+|                         | Pexiganan                                                                     | Flexampin                                |
+| ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------- |
+| Sequence                | GIGKFLKKAKKFGKAFVKILKK                                                        | GIKKWVKGVAKGVAKDLAKKIL                   |
+| Description             | Topical cream for diabetic foot ulcers  (failed in Phase III clinical trials) | Designed in silico with expert knowledge |
+| MIC against E. coli(µM) | 1.60                                                                          | 0.30                                     |
+| HC50 (µM)               | 45                                                                            | \> 200                                   |
+| Selectivity             | 28                                                                            | 670                                      |
 
 However, the combinatorial space of peptides is huge. Moreover, not every sequence is valid, some peptides cannot be synthesized and few manifest antimicrobial activity. The high cost of wet-lab experiments results in a limited number of experimentally validated peptides. 
 
