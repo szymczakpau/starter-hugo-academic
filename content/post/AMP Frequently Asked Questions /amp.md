@@ -108,7 +108,7 @@ The ratio of HC50 to MIC is called **Selectivity Index (SI).** Higher HC50 value
 
 ## Where can I find info on AMPs?
 
-AMPs are collected in the databases by the AMP community. Here are some of worth recommending: 
+AMPs are collected in the databases by the AMP community. Here are some worth recommending: 
 
 * [Database of Antimicrobial Activity and Structure of Peptides (DBAASP)](https://dbaasp.org/)
 * [Data repository of antimicrobial peptides (DRAMP)](http://dramp.cpu-bioinfor.org/)
