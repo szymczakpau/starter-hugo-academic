@@ -12,7 +12,7 @@ A peptide is a short chain of **amino acids**.
 There are 20 natural amino acids, which are building blocks for peptides. They are connected together by peptide bonds into amino acid chain. They are most commonly represented as one letter, less frequently as three letters:
 	
 
-![](aminoacids.png)
+![](https://github.com/szymczakpau/starter-hugo-academic/blob/master/content/post/AMP%20Frequently%20Asked%20Questions%20/aminoacids.png?raw=true)
 
 Using this code, we can represent a peptide like so:
 
@@ -20,7 +20,7 @@ Using this code, we can represent a peptide like so:
 
 Which corresponds to this chemical structure:
 
-![](peptideexample.png)
+![](https://github.com/szymczakpau/starter-hugo-academic/blob/master/content/post/AMP%20Frequently%20Asked%20Questions%20/peptideexample.png?raw=true)
 
 [Source](https://employees.csbsju.edu/cschaller/Principles%20Chem/imf/SPbiomolecule.htm) 
 
@@ -82,8 +82,7 @@ The modes of action can differ between peptides and between bacterial species. T
 
 Bacteria are slow to develop resistance against them. Traditional antibiotics tend to trigger resistance mechanisms in bacteria, but AMPs remain active after prolonged exposure due to their mode of action. 
 
-![](resistanceassay.png)
-
+![](https://github.com/szymczakpau/starter-hugo-academic/blob/master/content/post/AMP%20Frequently%20Asked%20Questions%20/resistanceassay.png?raw=true)
 
 *When to AMPs (YI12, FK13) are compared with a common antibiotic Imipenem, bacteria are quickly developing resistance towards Impipenem (starting from passage 5). The concentration needed kill bacteria remains stable for both AMPs.* [Das et al. 2021](https://www.nature.com/articles/s41551-021-00689-x) 
 
