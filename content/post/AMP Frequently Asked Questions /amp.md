@@ -2,6 +2,8 @@
 title: AMP Frequently Asked Questions
 date: 2022-03-01T17:38:19.010Z
 ---
+In the recent years, antimicrobial peptides (AMPs) are investigated as attractive alternatives to conventional antibiotic treatment. What are AMPs? Where do AMPs come from? How do AMPs work? Here I present a basic walk-through for all those getting started with this interesting class of compounds. 
+
 It was meant to be read in order, so if you are confused about something, you should probably go back to the beginning. 
 
 ## What are antimicrobial peptides?
@@ -116,13 +118,13 @@ AMPs are collected in the databases by the AMP community. Here are some of worth
 
 Novel AMPs are usually discovered by trial and error process of substituting and/or introducing certain amino-acids into already known AMPs. These small changes can substantially affect antimicrobial activity. In silico design allows for excellent activity and low toxicity.
 
-|                         | Pexiganan                                                                     | Flexampin                                |
-| ----------------------- | ----------------------------------------------------------------------------- | ---------------------------------------- |
-| Sequence                | GIGKFLKKAKKFGKAFVKILKK                                                        | GIKKWVKGVAKGVAKDLAKKIL                   |
-| Description             | Topical cream for diabetic foot ulcers  (failed in Phase III clinical trials) | Designed in silico with expert knowledge |
-| MIC against E. coli(µM) | 1.60                                                                          | 0.30                                     |
-| HC50 (µM)               | 45                                                                            | \> 200                                   |
-| Selectivity             | 28                                                                            | 670                                      |
+|                            | Pexiganan                                                                     | Flexampin                                |
+| -------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------- |
+| Sequence                   | GIGKFLKKAKKFGKAFVKILKK                                                        | GIKKWVKGVAKGVAKDLAKKIL                   |
+| Description                | Topical cream for diabetic foot ulcers  (failed in Phase III clinical trials) | Designed in silico with expert knowledge |
+| MIC against *E. coli* | 8-16 µg/ml                                                                          | 0.125-0.25 µM                                     |
+| HC50 (µM)                  | 45                                                                            | \> 200                                   |
+| Selectivity                | 28                                                                            | 670                                      |
 
 However, the combinatorial space of peptides is huge. Moreover, not every sequence is valid, some peptides cannot be synthesized and few manifest antimicrobial activity. The high cost of wet-lab experiments results in a limited number of experimentally validated peptides. 
 
